@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Create Markdown document with the LinkedIn templates for README
-md_content = """# 📋 Plantillas de LinkedIn para Portafolio / Repositorio
+# 📋 Plantillas de LinkedIn para Portafolio / Repositorio
 
 Colección de plantillas listas para copiar, completar y usar en publicaciones de LinkedIn y organización de perfil.
 
@@ -46,7 +44,6 @@ Seguimos aprendiendo y sumando nuevos conocimientos. 🚀
 ---
 
 ## 🎓 3. Publicación: Finalización de Proyecto (con Link a GitHub)
-
 💻 [Nombre del Proyecto] | [Breve descripción, ej: Sitio Web Interactivo / Sistema de Gestión]
 
 Les comparto uno de mis proyectos más recientes: [Nombre del Proyecto]. Es una solución enfocada en [explicar brevemente el objetivo o problema que resuelve].
@@ -69,7 +66,3 @@ Les comparto uno de mis proyectos más recientes: [Nombre del Proyecto]. Es una 
 Me encantaría recibir sus comentarios o retroalimentación sobre la estructura y el código. ¡Toda sugerencia suma! 🙌
 
 #ProyectosWeb #GitHub #SoftwareDevelopment #Coding #Portfolio
-=======
-# Proyectos
-Proyectos académicos y personales desarrollados durante mi formación como Ingeniero en Sistemas Computacionales.
->>>>>>> ec13cfc8bdda79ce16bb08f8120a9c14ef4199e2
