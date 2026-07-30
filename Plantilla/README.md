@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create Markdown document with the LinkedIn templates for README
 md_content = """# 📋 Plantillas de LinkedIn para Portafolio / Repositorio
 
@@ -68,3 +69,7 @@ Les comparto uno de mis proyectos más recientes: [Nombre del Proyecto]. Es una 
 Me encantaría recibir sus comentarios o retroalimentación sobre la estructura y el código. ¡Toda sugerencia suma! 🙌
 
 #ProyectosWeb #GitHub #SoftwareDevelopment #Coding #Portfolio
+=======
+# Proyectos
+Proyectos académicos y personales desarrollados durante mi formación como Ingeniero en Sistemas Computacionales.
+>>>>>>> ec13cfc8bdda79ce16bb08f8120a9c14ef4199e2
